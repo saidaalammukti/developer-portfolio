@@ -73,10 +73,10 @@ main{
     background: #FFF8F3;
      padding: 130px 150px;
     border-radius: 10px;
+    text-align: center;
 
 }
 .section-tittle{
-text-align: center;
 font-weight: 700;
 font-size: 35px;
 margin-bottom: 30px;
